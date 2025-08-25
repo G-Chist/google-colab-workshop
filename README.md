@@ -1,2 +1,6 @@
-# google-colab-workshop
-A brief Google Colab crash course. Designed for a local ACM chapter.
+## Hello everyone! Welcome to the Google Colab workshop!
+
+## To run:
+- load ``Colab_Workshop.ipynb`` in Google Colab
+- put ``linreg.tar`` in a folder called ``Datasets`` in your Google Drive
+- run the code in Colab!
